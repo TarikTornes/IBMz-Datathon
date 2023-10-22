@@ -59,7 +59,7 @@ findings and methodologies to inform your research or policy decisions.
 
 This project is released under the [MIT License](LICENSE).
 
-
 ### Authors
+
 This project was done by Zalan Papp, Robert Kiss, Oliver Toth, Saad Shakeel and
 Tarik Tornes.
