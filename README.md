@@ -29,7 +29,7 @@ This project is open-source, and the code and data used for the analysis are ava
 
 ## License
 
-This project is released under the [MIT License](LICENSE)
+This project is released under the [MIT License](LICENSE).
 
 
 ### Authors
